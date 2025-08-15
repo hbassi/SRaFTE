@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/global/u1/h/hbassi/super/train_phase1_2d-wave_all.py", line 172, in <module>
+    train(cli())
+  File "/global/u1/h/hbassi/super/train_phase1_2d-wave_all.py", line 88, in train
+    ds = HeatDataset(cfg.coarse, cfg.fine, cfg.time_horizon)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/h/hbassi/super/train_phase1_2d-wave_all.py", line 28, in __init__
+    self.X = np.load(coarse_path)     # (B,Tc,Hc,Wc)
+             ^^^^^^^^^^^^^^^^^^^^
+  File "/global/common/software/nersc/pe/conda-envs/24.1.0/python-3.11/nersc-python/lib/python3.11/site-packages/numpy/lib/npyio.py", line 427, in load
+    fid = stack.enter_context(open(os_fspath(file), "rb"))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/pscratch/sd/h/hbassi/dataset/wave_dataset_multi_sf_modes=10_kmax=7/u_coarse_sf=4.npy'

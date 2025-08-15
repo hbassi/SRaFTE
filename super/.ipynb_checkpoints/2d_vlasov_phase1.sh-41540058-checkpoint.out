@@ -1,0 +1,11 @@
+Loading data …
+Traceback (most recent call last):
+  File "/global/u1/h/hbassi/super/train_phase1_FUnet_vlasov.py", line 318, in <module>
+    train_model()
+  File "/global/u1/h/hbassi/super/train_phase1_FUnet_vlasov.py", line 172, in train_model
+    input_tensor, target_tensor = load_data()
+                                  ^^^^^^^^^^^
+  File "/global/u1/h/hbassi/super/train_phase1_FUnet_vlasov.py", line 23, in load_data
+    target_tensor = torch.tensor(target_FG, dtype=torch.float32)      # (N, T, Hf, Wf)
+                                 ^^^^^^^^^
+NameError: name 'target_FG' is not defined

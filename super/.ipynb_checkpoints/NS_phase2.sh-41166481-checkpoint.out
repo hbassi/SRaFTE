@@ -1,0 +1,25 @@
+  0%|                                                                                                                                                                                                | 0/501 [00:00<?, ?it/s]/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/loss.py:101: UserWarning: Using a target size (torch.Size([16, 256, 256])) that is different to the input size (torch.Size([16, 100, 256, 256])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.l1_loss(input, target, reduction=self.reduction)
+  0%|                                                                                                                                                                                                | 0/501 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/global/u1/h/hbassi/super/train_phase2_NS_all.py", line 218, in <module>
+    train(cli())
+  File "/global/u1/h/hbassi/super/train_phase2_NS_all.py", line 165, in train
+    loss = loss_fn(pred, tgt[:, -1])   # only the next frame matters
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/loss.py", line 101, in forward
+    return F.l1_loss(input, target, reduction=self.reduction)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/functional.py", line 3335, in l1_loss
+    expanded_input, expanded_target = torch.broadcast_tensors(input, target)
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/functional.py", line 76, in broadcast_tensors
+    return _VF.broadcast_tensors(tensors)  # type: ignore[attr-defined]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: The size of tensor a (100) must match the size of tensor b (16) at non-singleton dimension 1

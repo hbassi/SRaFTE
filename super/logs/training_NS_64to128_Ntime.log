@@ -1,0 +1,262 @@
+2025-03-25 12:21:16,384 - INFO - Epoch 0 | Train Loss: 0.00021553 
+2025-03-25 12:22:24,183 - INFO - Epoch 0 | Train Loss: 0.00020011 
+2025-03-25 12:22:25,019 - INFO - Epoch 0 | New best loss: 0.00020011. Model saved.
+2025-03-25 12:22:25,252 - INFO - Epoch 10 | Train Loss: 0.00065695 
+2025-03-25 12:22:25,448 - INFO - Epoch 20 | Train Loss: 0.00039647 
+2025-03-25 12:22:25,647 - INFO - Epoch 30 | Train Loss: 0.00029304 
+2025-03-25 12:22:26,502 - INFO - Epoch 34 | New best loss: 0.00016313. Model saved.
+2025-03-25 12:22:27,323 - INFO - Epoch 38 | New best loss: 0.00014869. Model saved.
+2025-03-25 12:22:27,354 - INFO - Epoch 40 | Train Loss: 0.00013656 
+2025-03-25 12:22:28,116 - INFO - Epoch 40 | New best loss: 0.00013656. Model saved.
+2025-03-25 12:22:28,944 - INFO - Epoch 43 | New best loss: 0.00012356. Model saved.
+2025-03-25 12:22:29,772 - INFO - Epoch 46 | New best loss: 0.00009405. Model saved.
+2025-03-25 12:22:29,842 - INFO - Epoch 50 | Train Loss: 0.00012692 
+2025-03-25 12:22:30,018 - INFO - Epoch 60 | Train Loss: 0.00014957 
+2025-03-25 12:22:30,248 - INFO - Epoch 70 | Train Loss: 0.00019372 
+2025-03-25 12:22:30,460 - INFO - Epoch 80 | Train Loss: 0.00024641 
+2025-03-25 12:22:30,648 - INFO - Epoch 90 | Train Loss: 0.00025058 
+2025-03-25 12:22:30,847 - INFO - Epoch 100 | Train Loss: 0.00016345 
+2025-03-25 12:22:31,047 - INFO - Epoch 110 | Train Loss: 0.00020266 
+2025-03-25 12:22:31,264 - INFO - Epoch 120 | Train Loss: 0.00019207 
+2025-03-25 12:22:31,496 - INFO - Epoch 130 | Train Loss: 0.00019131 
+2025-03-25 12:22:31,725 - INFO - Epoch 140 | Train Loss: 0.00016772 
+2025-03-25 12:22:31,951 - INFO - Epoch 150 | Train Loss: 0.00014916 
+2025-03-25 12:22:32,173 - INFO - Epoch 160 | Train Loss: 0.00020851 
+2025-03-25 12:22:32,394 - INFO - Epoch 170 | Train Loss: 0.00016889 
+2025-03-25 12:22:32,605 - INFO - Epoch 180 | Train Loss: 0.00013091 
+2025-03-25 12:22:32,795 - INFO - Epoch 190 | Train Loss: 0.00018460 
+2025-03-25 12:22:33,012 - INFO - Epoch 200 | Train Loss: 0.00021494 
+2025-03-25 12:22:33,208 - INFO - Epoch 210 | Train Loss: 0.00016017 
+2025-03-25 12:22:33,408 - INFO - Epoch 220 | Train Loss: 0.00012866 
+2025-03-25 12:22:33,609 - INFO - Epoch 230 | Train Loss: 0.00012905 
+2025-03-25 12:22:33,816 - INFO - Epoch 240 | Train Loss: 0.00014198 
+2025-03-25 12:22:34,044 - INFO - Epoch 250 | Train Loss: 0.00011866 
+2025-03-25 12:22:34,238 - INFO - Epoch 260 | Train Loss: 0.00012603 
+2025-03-25 12:22:34,433 - INFO - Epoch 270 | Train Loss: 0.00014366 
+2025-03-25 12:22:35,468 - INFO - Epoch 274 | New best loss: 0.00008673. Model saved.
+2025-03-25 12:22:35,589 - INFO - Epoch 280 | Train Loss: 0.00014616 
+2025-03-25 12:22:35,782 - INFO - Epoch 290 | Train Loss: 0.00011874 
+2025-03-25 12:22:35,981 - INFO - Epoch 300 | Train Loss: 0.00015105 
+2025-03-25 12:22:36,185 - INFO - Epoch 310 | Train Loss: 0.00020131 
+2025-03-25 12:22:36,415 - INFO - Epoch 320 | Train Loss: 0.00015036 
+2025-03-25 12:22:36,633 - INFO - Epoch 330 | Train Loss: 0.00017673 
+2025-03-25 12:22:36,856 - INFO - Epoch 340 | Train Loss: 0.00016637 
+2025-03-25 12:22:37,050 - INFO - Epoch 350 | Train Loss: 0.00012724 
+2025-03-25 12:22:37,268 - INFO - Epoch 360 | Train Loss: 0.00013457 
+2025-03-25 12:22:37,479 - INFO - Epoch 370 | Train Loss: 0.00013536 
+2025-03-25 12:22:37,692 - INFO - Epoch 380 | Train Loss: 0.00016177 
+2025-03-25 12:22:37,879 - INFO - Epoch 390 | Train Loss: 0.00012315 
+2025-03-25 12:22:38,106 - INFO - Epoch 400 | Train Loss: 0.00013296 
+2025-03-25 12:22:38,343 - INFO - Epoch 410 | Train Loss: 0.00013043 
+2025-03-25 12:22:39,308 - INFO - Epoch 415 | New best loss: 0.00008639. Model saved.
+2025-03-25 12:22:39,420 - INFO - Epoch 420 | Train Loss: 0.00011381 
+2025-03-25 12:22:40,326 - INFO - Epoch 427 | New best loss: 0.00008565. Model saved.
+2025-03-25 12:22:40,374 - INFO - Epoch 430 | Train Loss: 0.00011417 
+2025-03-25 12:22:41,306 - INFO - Epoch 435 | New best loss: 0.00007960. Model saved.
+2025-03-25 12:22:41,399 - INFO - Epoch 440 | Train Loss: 0.00011054 
+2025-03-25 12:22:41,602 - INFO - Epoch 450 | Train Loss: 0.00009329 
+2025-03-25 12:22:42,603 - INFO - Epoch 459 | New best loss: 0.00007725. Model saved.
+2025-03-25 12:22:42,635 - INFO - Epoch 460 | Train Loss: 0.00011778 
+2025-03-25 12:22:42,831 - INFO - Epoch 470 | Train Loss: 0.00008926 
+2025-03-25 12:22:43,700 - INFO - Epoch 475 | New best loss: 0.00007339. Model saved.
+2025-03-25 12:22:43,792 - INFO - Epoch 480 | Train Loss: 0.00011287 
+2025-03-25 12:22:44,666 - INFO - Epoch 487 | New best loss: 0.00006763. Model saved.
+2025-03-25 12:22:44,721 - INFO - Epoch 490 | Train Loss: 0.00007855 
+2025-03-25 12:22:45,505 - INFO - Epoch 491 | New best loss: 0.00006238. Model saved.
+2025-03-25 12:22:45,691 - INFO - Epoch 500 | Train Loss: 0.00009878 
+2025-03-25 12:22:46,601 - INFO - Epoch 506 | New best loss: 0.00006204. Model saved.
+2025-03-25 12:22:46,699 - INFO - Epoch 510 | Train Loss: 0.00009625 
+2025-03-25 12:22:46,924 - INFO - Epoch 520 | Train Loss: 0.00009572 
+2025-03-25 12:22:47,744 - INFO - Epoch 524 | New best loss: 0.00005754. Model saved.
+2025-03-25 12:22:47,865 - INFO - Epoch 530 | Train Loss: 0.00009479 
+2025-03-25 12:22:48,711 - INFO - Epoch 537 | New best loss: 0.00005598. Model saved.
+2025-03-25 12:22:48,760 - INFO - Epoch 540 | Train Loss: 0.00011091 
+2025-03-25 12:22:48,943 - INFO - Epoch 550 | Train Loss: 0.00009910 
+2025-03-25 12:22:49,147 - INFO - Epoch 560 | Train Loss: 0.00006809 
+2025-03-25 12:22:49,893 - INFO - Epoch 561 | New best loss: 0.00005469. Model saved.
+2025-03-25 12:22:50,061 - INFO - Epoch 570 | Train Loss: 0.00006496 
+2025-03-25 12:22:50,287 - INFO - Epoch 580 | Train Loss: 0.00006417 
+2025-03-25 12:22:50,489 - INFO - Epoch 590 | Train Loss: 0.00007320 
+2025-03-25 12:22:50,675 - INFO - Epoch 600 | Train Loss: 0.00006500 
+2025-03-25 12:22:50,875 - INFO - Epoch 610 | Train Loss: 0.00005236 
+2025-03-25 12:22:51,612 - INFO - Epoch 610 | New best loss: 0.00005236. Model saved.
+2025-03-25 12:22:51,826 - INFO - Epoch 620 | Train Loss: 0.00005165 
+2025-03-25 12:22:52,648 - INFO - Epoch 620 | New best loss: 0.00005165. Model saved.
+2025-03-25 12:22:53,427 - INFO - Epoch 622 | New best loss: 0.00005093. Model saved.
+2025-03-25 12:22:54,260 - INFO - Epoch 626 | New best loss: 0.00005052. Model saved.
+2025-03-25 12:22:55,030 - INFO - Epoch 628 | New best loss: 0.00004687. Model saved.
+2025-03-25 12:22:55,064 - INFO - Epoch 630 | Train Loss: 0.00004754 
+2025-03-25 12:22:55,286 - INFO - Epoch 640 | Train Loss: 0.00004747 
+2025-03-25 12:22:56,090 - INFO - Epoch 642 | New best loss: 0.00004241. Model saved.
+2025-03-25 12:22:56,267 - INFO - Epoch 650 | Train Loss: 0.00005035 
+2025-03-25 12:22:57,025 - INFO - Epoch 651 | New best loss: 0.00004191. Model saved.
+2025-03-25 12:22:57,870 - INFO - Epoch 657 | New best loss: 0.00004097. Model saved.
+2025-03-25 12:22:58,623 - INFO - Epoch 659 | New best loss: 0.00003612. Model saved.
+2025-03-25 12:22:58,634 - INFO - Epoch 660 | Train Loss: 0.00005802 
+2025-03-25 12:22:58,850 - INFO - Epoch 670 | Train Loss: 0.00005119 
+2025-03-25 12:22:59,064 - INFO - Epoch 680 | Train Loss: 0.00004575 
+2025-03-25 12:22:59,274 - INFO - Epoch 690 | Train Loss: 0.00004273 
+2025-03-25 12:23:00,084 - INFO - Epoch 695 | New best loss: 0.00003550. Model saved.
+2025-03-25 12:23:00,187 - INFO - Epoch 700 | Train Loss: 0.00003890 
+2025-03-25 12:23:00,895 - INFO - Epoch 701 | New best loss: 0.00003514. Model saved.
+2025-03-25 12:23:01,620 - INFO - Epoch 703 | New best loss: 0.00003261. Model saved.
+2025-03-25 12:23:02,350 - INFO - Epoch 705 | New best loss: 0.00003200. Model saved.
+2025-03-25 12:23:02,465 - INFO - Epoch 710 | Train Loss: 0.00003640 
+2025-03-25 12:23:03,183 - INFO - Epoch 711 | New best loss: 0.00003177. Model saved.
+2025-03-25 12:23:03,897 - INFO - Epoch 713 | New best loss: 0.00003046. Model saved.
+2025-03-25 12:23:04,619 - INFO - Epoch 715 | New best loss: 0.00003042. Model saved.
+2025-03-25 12:23:05,342 - INFO - Epoch 717 | New best loss: 0.00003037. Model saved.
+2025-03-25 12:23:06,087 - INFO - Epoch 719 | New best loss: 0.00002887. Model saved.
+2025-03-25 12:23:06,099 - INFO - Epoch 720 | Train Loss: 0.00003262 
+2025-03-25 12:23:06,833 - INFO - Epoch 721 | New best loss: 0.00002731. Model saved.
+2025-03-25 12:23:07,889 - INFO - Epoch 725 | New best loss: 0.00002722. Model saved.
+2025-03-25 12:23:08,637 - INFO - Epoch 727 | New best loss: 0.00002641. Model saved.
+2025-03-25 12:23:09,394 - INFO - Epoch 729 | New best loss: 0.00002481. Model saved.
+2025-03-25 12:23:09,407 - INFO - Epoch 730 | Train Loss: 0.00002938 
+2025-03-25 12:23:10,138 - INFO - Epoch 731 | New best loss: 0.00002446. Model saved.
+2025-03-25 12:23:11,008 - INFO - Epoch 737 | New best loss: 0.00002415. Model saved.
+2025-03-25 12:23:11,763 - INFO - Epoch 739 | New best loss: 0.00002326. Model saved.
+2025-03-25 12:23:11,774 - INFO - Epoch 740 | Train Loss: 0.00002543 
+2025-03-25 12:23:12,530 - INFO - Epoch 741 | New best loss: 0.00002246. Model saved.
+2025-03-25 12:23:13,290 - INFO - Epoch 743 | New best loss: 0.00002205. Model saved.
+2025-03-25 12:23:14,088 - INFO - Epoch 747 | New best loss: 0.00002113. Model saved.
+2025-03-25 12:23:14,837 - INFO - Epoch 749 | New best loss: 0.00002095. Model saved.
+2025-03-25 12:23:14,869 - INFO - Epoch 750 | Train Loss: 0.00002411 
+2025-03-25 12:23:15,605 - INFO - Epoch 751 | New best loss: 0.00002062. Model saved.
+2025-03-25 12:23:16,391 - INFO - Epoch 755 | New best loss: 0.00002026. Model saved.
+2025-03-25 12:23:17,234 - INFO - Epoch 759 | New best loss: 0.00002010. Model saved.
+2025-03-25 12:23:17,253 - INFO - Epoch 760 | Train Loss: 0.00002111 
+2025-03-25 12:23:18,033 - INFO - Epoch 763 | New best loss: 0.00001972. Model saved.
+2025-03-25 12:23:18,847 - INFO - Epoch 768 | New best loss: 0.00001734. Model saved.
+2025-03-25 12:23:18,883 - INFO - Epoch 770 | Train Loss: 0.00001636 
+2025-03-25 12:23:19,659 - INFO - Epoch 770 | New best loss: 0.00001636. Model saved.
+2025-03-25 12:23:20,387 - INFO - Epoch 772 | New best loss: 0.00001629. Model saved.
+2025-03-25 12:23:20,567 - INFO - Epoch 780 | Train Loss: 0.00001626 
+2025-03-25 12:23:21,241 - INFO - Epoch 780 | New best loss: 0.00001626. Model saved.
+2025-03-25 12:23:21,973 - INFO - Epoch 783 | New best loss: 0.00001625. Model saved.
+2025-03-25 12:23:22,681 - INFO - Epoch 784 | New best loss: 0.00001622. Model saved.
+2025-03-25 12:23:23,385 - INFO - Epoch 785 | New best loss: 0.00001609. Model saved.
+2025-03-25 12:23:24,102 - INFO - Epoch 786 | New best loss: 0.00001605. Model saved.
+2025-03-25 12:23:24,868 - INFO - Epoch 787 | New best loss: 0.00001599. Model saved.
+2025-03-25 12:23:25,606 - INFO - Epoch 789 | New best loss: 0.00001577. Model saved.
+2025-03-25 12:23:25,618 - INFO - Epoch 790 | Train Loss: 0.00001583 
+2025-03-25 12:23:26,347 - INFO - Epoch 791 | New best loss: 0.00001573. Model saved.
+2025-03-25 12:23:27,091 - INFO - Epoch 793 | New best loss: 0.00001572. Model saved.
+2025-03-25 12:23:27,823 - INFO - Epoch 794 | New best loss: 0.00001570. Model saved.
+2025-03-25 12:23:28,555 - INFO - Epoch 795 | New best loss: 0.00001558. Model saved.
+2025-03-25 12:23:29,288 - INFO - Epoch 797 | New best loss: 0.00001552. Model saved.
+2025-03-25 12:23:30,041 - INFO - Epoch 799 | New best loss: 0.00001545. Model saved.
+2025-03-25 12:23:30,075 - INFO - Epoch 800 | Train Loss: 0.00001546 
+2025-03-25 12:23:30,794 - INFO - Epoch 801 | New best loss: 0.00001540. Model saved.
+2025-03-25 12:23:31,533 - INFO - Epoch 802 | New best loss: 0.00001538. Model saved.
+2025-03-25 12:23:32,290 - INFO - Epoch 803 | New best loss: 0.00001533. Model saved.
+2025-03-25 12:23:33,046 - INFO - Epoch 805 | New best loss: 0.00001525. Model saved.
+2025-03-25 12:23:33,773 - INFO - Epoch 807 | New best loss: 0.00001522. Model saved.
+2025-03-25 12:23:34,475 - INFO - Epoch 808 | New best loss: 0.00001520. Model saved.
+2025-03-25 12:23:35,193 - INFO - Epoch 809 | New best loss: 0.00001517. Model saved.
+2025-03-25 12:23:35,210 - INFO - Epoch 810 | Train Loss: 0.00001519 
+2025-03-25 12:23:35,922 - INFO - Epoch 811 | New best loss: 0.00001514. Model saved.
+2025-03-25 12:23:36,633 - INFO - Epoch 812 | New best loss: 0.00001513. Model saved.
+2025-03-25 12:23:37,357 - INFO - Epoch 813 | New best loss: 0.00001508. Model saved.
+2025-03-25 12:23:38,109 - INFO - Epoch 814 | New best loss: 0.00001507. Model saved.
+2025-03-25 12:23:38,846 - INFO - Epoch 816 | New best loss: 0.00001504. Model saved.
+2025-03-25 12:23:39,594 - INFO - Epoch 818 | New best loss: 0.00001498. Model saved.
+2025-03-25 12:23:39,624 - INFO - Epoch 820 | Train Loss: 0.00001493 
+2025-03-25 12:23:40,317 - INFO - Epoch 820 | New best loss: 0.00001493. Model saved.
+2025-03-25 12:23:41,064 - INFO - Epoch 822 | New best loss: 0.00001493. Model saved.
+2025-03-25 12:23:41,782 - INFO - Epoch 823 | New best loss: 0.00001493. Model saved.
+2025-03-25 12:23:42,539 - INFO - Epoch 825 | New best loss: 0.00001487. Model saved.
+2025-03-25 12:23:42,649 - INFO - Epoch 830 | Train Loss: 0.00001485 
+2025-03-25 12:23:43,623 - INFO - Epoch 830 | New best loss: 0.00001485. Model saved.
+2025-03-25 12:23:44,382 - INFO - Epoch 833 | New best loss: 0.00001483. Model saved.
+2025-03-25 12:23:45,119 - INFO - Epoch 835 | New best loss: 0.00001476. Model saved.
+2025-03-25 12:23:45,876 - INFO - Epoch 838 | New best loss: 0.00001475. Model saved.
+2025-03-25 12:23:46,579 - INFO - Epoch 839 | New best loss: 0.00001472. Model saved.
+2025-03-25 12:23:46,609 - INFO - Epoch 840 | Train Loss: 0.00001472 
+2025-03-25 12:23:47,304 - INFO - Epoch 840 | New best loss: 0.00001472. Model saved.
+2025-03-25 12:23:48,029 - INFO - Epoch 841 | New best loss: 0.00001471. Model saved.
+2025-03-25 12:23:48,798 - INFO - Epoch 842 | New best loss: 0.00001468. Model saved.
+2025-03-25 12:23:49,535 - INFO - Epoch 844 | New best loss: 0.00001467. Model saved.
+2025-03-25 12:23:50,264 - INFO - Epoch 845 | New best loss: 0.00001463. Model saved.
+2025-03-25 12:23:50,997 - INFO - Epoch 847 | New best loss: 0.00001463. Model saved.
+2025-03-25 12:23:51,731 - INFO - Epoch 848 | New best loss: 0.00001463. Model saved.
+2025-03-25 12:23:52,446 - INFO - Epoch 849 | New best loss: 0.00001461. Model saved.
+2025-03-25 12:23:52,488 - INFO - Epoch 850 | Train Loss: 0.00001460 
+2025-03-25 12:23:53,223 - INFO - Epoch 850 | New best loss: 0.00001460. Model saved.
+2025-03-25 12:23:53,968 - INFO - Epoch 851 | New best loss: 0.00001458. Model saved.
+2025-03-25 12:23:54,724 - INFO - Epoch 853 | New best loss: 0.00001456. Model saved.
+2025-03-25 12:23:55,487 - INFO - Epoch 855 | New best loss: 0.00001456. Model saved.
+2025-03-25 12:23:56,190 - INFO - Epoch 856 | New best loss: 0.00001453. Model saved.
+2025-03-25 12:23:56,888 - INFO - Epoch 857 | New best loss: 0.00001452. Model saved.
+2025-03-25 12:23:57,579 - INFO - Epoch 858 | New best loss: 0.00001452. Model saved.
+2025-03-25 12:23:58,294 - INFO - Epoch 859 | New best loss: 0.00001451. Model saved.
+2025-03-25 12:23:58,326 - INFO - Epoch 860 | Train Loss: 0.00001450 
+2025-03-25 12:23:59,067 - INFO - Epoch 860 | New best loss: 0.00001450. Model saved.
+2025-03-25 12:23:59,795 - INFO - Epoch 861 | New best loss: 0.00001447. Model saved.
+2025-03-25 12:24:00,554 - INFO - Epoch 864 | New best loss: 0.00001444. Model saved.
+2025-03-25 12:24:01,271 - INFO - Epoch 866 | New best loss: 0.00001443. Model saved.
+2025-03-25 12:24:01,988 - INFO - Epoch 868 | New best loss: 0.00001440. Model saved.
+2025-03-25 12:24:02,682 - INFO - Epoch 869 | New best loss: 0.00001440. Model saved.
+2025-03-25 12:24:02,693 - INFO - Epoch 870 | Train Loss: 0.00001437 
+2025-03-25 12:24:03,515 - INFO - Epoch 870 | New best loss: 0.00001437. Model saved.
+2025-03-25 12:24:04,312 - INFO - Epoch 874 | New best loss: 0.00001436. Model saved.
+2025-03-25 12:24:05,031 - INFO - Epoch 875 | New best loss: 0.00001435. Model saved.
+2025-03-25 12:24:05,743 - INFO - Epoch 876 | New best loss: 0.00001434. Model saved.
+2025-03-25 12:24:05,827 - INFO - Epoch 880 | Train Loss: 0.00001435 
+2025-03-25 12:24:06,647 - INFO - Epoch 884 | New best loss: 0.00001434. Model saved.
+2025-03-25 12:24:07,410 - INFO - Epoch 886 | New best loss: 0.00001430. Model saved.
+2025-03-25 12:24:07,491 - INFO - Epoch 890 | Train Loss: 0.00001434 
+2025-03-25 12:24:08,562 - INFO - Epoch 891 | New best loss: 0.00001429. Model saved.
+2025-03-25 12:24:09,432 - INFO - Epoch 892 | New best loss: 0.00001427. Model saved.
+2025-03-25 12:24:10,266 - INFO - Epoch 894 | New best loss: 0.00001424. Model saved.
+2025-03-25 12:24:11,270 - INFO - Epoch 895 | New best loss: 0.00001424. Model saved.
+2025-03-25 12:24:12,002 - INFO - Epoch 896 | New best loss: 0.00001423. Model saved.
+2025-03-25 12:24:12,102 - INFO - Epoch 900 | Train Loss: 0.00001423 
+2025-03-25 12:24:12,798 - INFO - Epoch 900 | New best loss: 0.00001423. Model saved.
+2025-03-25 12:24:13,549 - INFO - Epoch 903 | New best loss: 0.00001421. Model saved.
+2025-03-25 12:24:14,297 - INFO - Epoch 905 | New best loss: 0.00001421. Model saved.
+2025-03-25 12:24:14,995 - INFO - Epoch 906 | New best loss: 0.00001419. Model saved.
+2025-03-25 12:24:15,706 - INFO - Epoch 907 | New best loss: 0.00001418. Model saved.
+2025-03-25 12:24:16,412 - INFO - Epoch 908 | New best loss: 0.00001418. Model saved.
+2025-03-25 12:24:16,455 - INFO - Epoch 910 | Train Loss: 0.00001417 
+2025-03-25 12:24:17,129 - INFO - Epoch 910 | New best loss: 0.00001417. Model saved.
+2025-03-25 12:24:17,839 - INFO - Epoch 912 | New best loss: 0.00001416. Model saved.
+2025-03-25 12:24:18,567 - INFO - Epoch 913 | New best loss: 0.00001415. Model saved.
+2025-03-25 12:24:18,735 - INFO - Epoch 920 | Train Loss: 0.00001416 
+2025-03-25 12:24:19,507 - INFO - Epoch 923 | New best loss: 0.00001411. Model saved.
+2025-03-25 12:24:20,238 - INFO - Epoch 924 | New best loss: 0.00001411. Model saved.
+2025-03-25 12:24:21,045 - INFO - Epoch 929 | New best loss: 0.00001411. Model saved.
+2025-03-25 12:24:21,057 - INFO - Epoch 930 | Train Loss: 0.00001409 
+2025-03-25 12:24:21,757 - INFO - Epoch 930 | New best loss: 0.00001409. Model saved.
+2025-03-25 12:24:22,507 - INFO - Epoch 933 | New best loss: 0.00001409. Model saved.
+2025-03-25 12:24:23,229 - INFO - Epoch 934 | New best loss: 0.00001408. Model saved.
+2025-03-25 12:24:23,360 - INFO - Epoch 940 | Train Loss: 0.00001409 
+2025-03-25 12:24:24,379 - INFO - Epoch 944 | New best loss: 0.00001408. Model saved.
+2025-03-25 12:24:25,069 - INFO - Epoch 945 | New best loss: 0.00001406. Model saved.
+2025-03-25 12:24:25,782 - INFO - Epoch 946 | New best loss: 0.00001406. Model saved.
+2025-03-25 12:24:25,849 - INFO - Epoch 950 | Train Loss: 0.00001406 
+2025-03-25 12:24:26,560 - INFO - Epoch 951 | New best loss: 0.00001406. Model saved.
+2025-03-25 12:24:27,279 - INFO - Epoch 952 | New best loss: 0.00001404. Model saved.
+2025-03-25 12:24:28,160 - INFO - Epoch 953 | New best loss: 0.00001404. Model saved.
+2025-03-25 12:24:29,073 - INFO - Epoch 958 | New best loss: 0.00001404. Model saved.
+2025-03-25 12:24:29,103 - INFO - Epoch 960 | Train Loss: 0.00001407 
+2025-03-25 12:24:29,896 - INFO - Epoch 962 | New best loss: 0.00001403. Model saved.
+2025-03-25 12:24:30,067 - INFO - Epoch 970 | Train Loss: 0.00001402 
+2025-03-25 12:24:30,796 - INFO - Epoch 970 | New best loss: 0.00001402. Model saved.
+2025-03-25 12:24:31,031 - INFO - Epoch 980 | Train Loss: 0.00001402 
+2025-03-25 12:24:31,752 - INFO - Epoch 981 | New best loss: 0.00001401. Model saved.
+2025-03-25 12:24:32,475 - INFO - Epoch 983 | New best loss: 0.00001401. Model saved.
+2025-03-25 12:24:33,224 - INFO - Epoch 985 | New best loss: 0.00001401. Model saved.
+2025-03-25 12:24:33,329 - INFO - Epoch 990 | Train Loss: 0.00001401 
+2025-03-25 12:24:34,233 - INFO - Epoch 993 | New best loss: 0.00001401. Model saved.
+2025-03-25 12:24:34,402 - INFO - Epoch 1000 | Train Loss: 0.00001401 
+2025-03-25 12:24:35,275 - INFO - Epoch 1000 | New best loss: 0.00001401. Model saved.
+2025-03-25 12:24:36,285 - INFO - Epoch 1006 | New best loss: 0.00001400. Model saved.
+2025-03-25 12:24:37,171 - INFO - Epoch 1007 | New best loss: 0.00001400. Model saved.
+2025-03-25 12:24:38,129 - INFO - Epoch 1009 | New best loss: 0.00001400. Model saved.
+2025-03-25 12:24:38,157 - INFO - Epoch 1010 | Train Loss: 0.00001401 
+2025-03-25 12:24:39,222 - INFO - Epoch 1014 | New best loss: 0.00001399. Model saved.
+2025-03-25 12:24:39,367 - INFO - Epoch 1020 | Train Loss: 0.00001401 
+2025-03-25 12:24:40,378 - INFO - Epoch 1024 | New best loss: 0.00001399. Model saved.
+2025-03-25 12:24:40,527 - INFO - Epoch 1030 | Train Loss: 0.00001399 
+2025-03-25 12:24:41,477 - INFO - Epoch 1034 | New best loss: 0.00001399. Model saved.

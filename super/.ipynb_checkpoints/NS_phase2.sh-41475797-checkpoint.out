@@ -1,0 +1,2 @@
+/var/spool/slurmd/job41475797/slurm_script: line 17: 2269406 Killed                  python train_phase2_NS_all.py --model fno
+slurmstepd: error: Detected 1 oom_kill event in StepId=41475797.batch. Some of the step tasks have been OOM Killed.

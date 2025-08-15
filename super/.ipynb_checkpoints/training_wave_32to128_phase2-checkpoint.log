@@ -1,0 +1,79 @@
+2025-06-17 08:36:33,327 - INFO - Epoch 0 | Train 0.024965 | Val 0.015831
+2025-06-17 08:36:34,101 - INFO - New best val 0.015831 at epoch 0
+2025-06-17 08:36:43,689 - INFO - New best val 0.012672 at epoch 1
+2025-06-17 08:37:02,290 - INFO - New best val 0.011011 at epoch 3
+2025-06-17 08:37:12,406 - INFO - New best val 0.010201 at epoch 4
+2025-06-17 08:37:22,233 - INFO - New best val 0.009746 at epoch 5
+2025-06-17 08:37:32,109 - INFO - New best val 0.009216 at epoch 6
+2025-06-17 08:37:42,327 - INFO - New best val 0.009126 at epoch 7
+2025-06-17 08:37:51,977 - INFO - New best val 0.009105 at epoch 8
+2025-06-17 08:38:10,111 - INFO - Epoch 10 | Train 0.009248 | Val 0.009221
+2025-06-17 08:39:43,664 - INFO - Epoch 20 | Train 0.011099 | Val 0.009634
+2025-06-17 08:40:03,321 - INFO - New best val 0.008725 at epoch 22
+2025-06-17 08:40:14,211 - INFO - New best val 0.008383 at epoch 23
+2025-06-17 08:40:24,954 - INFO - New best val 0.008122 at epoch 24
+2025-06-17 08:40:35,552 - INFO - New best val 0.008092 at epoch 25
+2025-06-17 08:40:46,278 - INFO - New best val 0.008090 at epoch 26
+2025-06-17 08:41:24,538 - INFO - Epoch 30 | Train 0.009238 | Val 0.009900
+2025-06-17 08:42:31,734 - INFO - New best val 0.006836 at epoch 37
+2025-06-17 08:42:42,038 - INFO - New best val 0.005905 at epoch 38
+2025-06-17 08:42:52,707 - INFO - New best val 0.004260 at epoch 39
+2025-06-17 08:43:02,264 - INFO - Epoch 40 | Train 0.003908 | Val 0.003682
+2025-06-17 08:43:03,156 - INFO - New best val 0.003682 at epoch 40
+2025-06-17 08:43:13,518 - INFO - New best val 0.003122 at epoch 41
+2025-06-17 08:43:24,402 - INFO - New best val 0.003012 at epoch 42
+2025-06-17 08:43:34,594 - INFO - New best val 0.002995 at epoch 43
+2025-06-17 08:44:40,823 - INFO - Epoch 50 | Train 0.007048 | Val 0.006547
+2025-06-17 08:45:57,605 - INFO - New best val 0.002933 at epoch 58
+2025-06-17 08:46:07,887 - INFO - New best val 0.002777 at epoch 59
+2025-06-17 08:46:17,590 - INFO - Epoch 60 | Train 0.002684 | Val 0.002747
+2025-06-17 08:46:18,527 - INFO - New best val 0.002747 at epoch 60
+2025-06-17 08:46:29,148 - INFO - New best val 0.002744 at epoch 61
+2025-06-17 08:47:53,206 - INFO - Epoch 70 | Train 0.006497 | Val 0.006827
+2025-06-17 08:48:52,435 - INFO - New best val 0.002610 at epoch 76
+2025-06-17 08:49:03,293 - INFO - New best val 0.002545 at epoch 77
+2025-06-17 08:49:13,495 - INFO - New best val 0.002535 at epoch 78
+2025-06-17 08:49:32,759 - INFO - Epoch 80 | Train 0.002470 | Val 0.002587
+2025-06-17 08:51:08,908 - INFO - Epoch 90 | Train 0.005508 | Val 0.004508
+2025-06-17 08:51:47,731 - INFO - New best val 0.002477 at epoch 94
+2025-06-17 08:51:58,111 - INFO - New best val 0.002444 at epoch 95
+2025-06-17 08:52:08,843 - INFO - New best val 0.002441 at epoch 96
+2025-06-17 08:52:47,014 - INFO - Epoch 100 | Train 0.003245 | Val 0.004486
+2025-06-17 08:54:23,035 - INFO - Epoch 110 | Train 0.003113 | Val 0.002808
+2025-06-17 08:54:43,402 - INFO - New best val 0.002382 at epoch 112
+2025-06-17 08:54:53,853 - INFO - New best val 0.002365 at epoch 113
+2025-06-17 08:55:59,349 - INFO - Epoch 120 | Train 0.005719 | Val 0.006615
+2025-06-17 08:57:24,795 - INFO - New best val 0.002359 at epoch 129
+2025-06-17 08:57:34,004 - INFO - Epoch 130 | Train 0.002239 | Val 0.002313
+2025-06-17 08:57:34,895 - INFO - New best val 0.002313 at epoch 130
+2025-06-17 08:57:45,421 - INFO - New best val 0.002311 at epoch 131
+2025-06-17 08:59:09,212 - INFO - Epoch 140 | Train 0.005744 | Val 0.006535
+2025-06-17 09:00:16,792 - INFO - New best val 0.002254 at epoch 147
+2025-06-17 09:00:27,044 - INFO - New best val 0.002235 at epoch 148
+2025-06-17 09:00:45,624 - INFO - Epoch 150 | Train 0.002153 | Val 0.002252
+2025-06-17 09:02:20,424 - INFO - Epoch 160 | Train 0.004991 | Val 0.004609
+2025-06-17 09:02:59,091 - INFO - New best val 0.002158 at epoch 164
+2025-06-17 09:03:09,420 - INFO - New best val 0.002105 at epoch 165
+2025-06-17 09:03:20,008 - INFO - New best val 0.002102 at epoch 166
+2025-06-17 09:03:56,991 - INFO - Epoch 170 | Train 0.002763 | Val 0.004411
+2025-06-17 09:05:32,860 - INFO - Epoch 180 | Train 0.002511 | Val 0.002178
+2025-06-17 09:05:43,410 - INFO - New best val 0.001811 at epoch 181
+2025-06-17 09:05:54,002 - INFO - New best val 0.001616 at epoch 182
+2025-06-17 09:06:04,648 - INFO - New best val 0.001588 at epoch 183
+2025-06-17 09:07:10,686 - INFO - Epoch 190 | Train 0.005464 | Val 0.006569
+2025-06-17 09:08:36,212 - INFO - New best val 0.001580 at epoch 199
+2025-06-17 09:08:46,075 - INFO - Epoch 200 | Train 0.001407 | Val 0.001513
+2025-06-17 09:08:46,972 - INFO - New best val 0.001513 at epoch 200
+2025-06-17 09:08:57,286 - INFO - New best val 0.001505 at epoch 201
+2025-06-17 09:10:23,523 - INFO - Epoch 210 | Train 0.005125 | Val 0.006080
+2025-06-17 09:11:28,241 - INFO - New best val 0.001441 at epoch 217
+2025-06-17 09:11:38,614 - INFO - New best val 0.001418 at epoch 218
+2025-06-17 09:11:48,698 - INFO - New best val 0.001417 at epoch 219
+2025-06-17 09:11:58,083 - INFO - Epoch 220 | Train 0.001289 | Val 0.001445
+2025-06-17 09:13:30,387 - INFO - Epoch 230 | Train 0.004361 | Val 0.005680
+2025-06-17 09:14:25,557 - INFO - New best val 0.001407 at epoch 236
+2025-06-17 09:15:02,227 - INFO - Epoch 240 | Train 0.002055 | Val 0.002804
+2025-06-17 09:16:30,569 - INFO - Epoch 250 | Train 0.002123 | Val 0.002395
+2025-06-17 09:16:48,995 - INFO - New best val 0.001388 at epoch 252
+2025-06-17 09:16:58,817 - INFO - New best val 0.001359 at epoch 253
+2025-06-17 09:18:01,692 - INFO - Epoch 260 | Train 0.004124 | Val 0.005900

@@ -1,0 +1,33 @@
+Loaded 1000 samples  |  upscale ×8
+  0%|                                                                                                                                                                                               | 0/5001 [00:00<?, ?it/s]  0%|                                                                                                                                                                                               | 0/5001 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/global/u1/h/hbassi/super/train_phase1_2d-wave_all.py", line 172, in <module>
+    train(cli())
+  File "/global/u1/h/hbassi/super/train_phase1_2d-wave_all.py", line 120, in train
+    pred = model((x - mean.to(dev)) / std.to(dev))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/h/hbassi/super/models.py", line 314, in forward
+    x = self.act(blk["spec"](x) + blk["w"](x))
+                 ^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/h/hbassi/super/models.py", line 280, in forward
+    out_ft[:, :, :m1, :m2] = self.compl_mul2d(
+                             ^^^^^^^^^^^^^^^^^
+  File "/global/u1/h/hbassi/super/models.py", line 271, in compl_mul2d
+    return torch.einsum("bixy,ioxy->boxy", x, w)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/functional.py", line 385, in einsum
+    return _VF.einsum(equation, operands)  # type: ignore[attr-defined]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: einsum(): subscript y has size 16 for operand 1 which does not broadcast with previously seen size 9

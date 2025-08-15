@@ -1,0 +1,39 @@
+Loaded 1000 samples  |  upscale ×4
+  0%|                                                                                                                                                                                                                                                                              | 0/5001 [00:00<?, ?it/s]  0%|                                                                                                                                                                                                                                                                              | 0/5001 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/global/u1/h/hbassi/super/train_phase1_2d-heat_all.py", line 172, in <module>
+    train(cli())
+  File "/global/u1/h/hbassi/super/train_phase1_2d-heat_all.py", line 120, in train
+    pred = model((x - mean.to(dev)) / std.to(dev))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/u1/h/hbassi/super/models.py", line 249, in forward
+    x = self.head(x)
+        ^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1532, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1541, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 460, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/global/homes/h/hbassi/.local/perlmutter/python-3.11/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 456, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Input type (double) and bias type (float) should be the same
